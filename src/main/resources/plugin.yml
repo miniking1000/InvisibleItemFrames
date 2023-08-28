@@ -1,0 +1,4 @@
+name: InvisibleItemFrames
+version: '${version}'
+main: org.pythonchik.invisibleitemframes.InvisibleItemFrames
+api-version: '1.20'
